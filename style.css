@@ -1,0 +1,105 @@
+/*
+ Theme Name:   Twenty Sixteen Halka
+ Theme URI:
+ Description:  Twenty Sixteen Halka Theme
+ Author:       Abijeet Patro
+ Author URI:   https://thecurlybraces.com
+ Template:     twentysixteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog, block-patterns
+ Text Domain: twentysixteen
+*/
+
+html,
+body,
+button,
+input,
+select,
+textarea,
+::placeholder,
+button,
+button[disabled]:hover,
+button[disabled]:focus,
+input[type="button"],
+input[type="button"][disabled]:hover,
+input[type="button"][disabled]:focus,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus,
+.post-password-form label,
+.main-navigation,
+.post-navigation,
+.pagination,
+.image-navigation,
+.comment-navigation,
+.logged-in .site .skip-link,
+.widget,
+.widget_rss,
+.tagcloud,
+.tagcloud a,
+.site-title,
+.entry-title,
+.entry-footer,
+.sticky-post,
+.page-title,
+.page-links,
+.comments-title,
+.comment-reply-title,
+.comment-metadata,
+.pingback .edit-link,
+.comment-reply-link,
+.comment-form label,
+.no-comments,
+.required,
+.comment-form .comment-form-cookies-consent label,
+.site-footer .site-title:after,
+.site-footer span[role=separator],
+.widecolumn label,
+.widget .widget-title {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Oxygen", "Ubuntu",
+        "Roboto", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+}
+
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre,
+.form-allowed-tags code {
+	font-family: monospace;
+}
+
+/** Increase line-height to avoid letters getting cut off */
+.site-description {
+	line-height: 1.2;
+	font-size: 1em;
+}
+
+/** Increase the width for larger screens */
+.site-inner {
+	max-width: 1600px;
+}
+
+/** Increase footer font-size */
+.post .entry-footer {
+	font-size: 0.95em;
+}
+
+/** Increase spacing between footer items */
+.post .entry-footer > span {
+	margin-bottom: 0.25em !important;
+}
+
+/** Increase text or items in the sidebar */
+aside .widget nav,
+aside .blog-stats ul,
+aside form {
+	font-size: 1.2em
+}
