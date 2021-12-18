@@ -103,3 +103,8 @@ aside .blog-stats ul,
 aside form {
 	font-size: 1.2em
 }
+
+footer.site-footer .site-title,
+footer.site-footer .site-info a {
+	font-size: 16px;
+}

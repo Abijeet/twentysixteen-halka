@@ -1,5 +1,5 @@
 # twentysixteen-halka
-A more light weight child theme for WordPress twenty sixteen theme. Works with legacy widgets.
+A light weight child theme for WordPress twenty sixteen theme. Works with legacy widgets.
 
 Demo: https://blog.thecurlybraces.com/
 
