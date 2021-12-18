@@ -104,6 +104,11 @@ aside form {
 	font-size: 1.2em
 }
 
+.site-header.site-header {
+	padding-top: 3.6em;
+	padding-bottom: 3.6em;
+}
+
 footer.site-footer .site-title,
 footer.site-footer .site-info a {
 	font-size: 16px;
