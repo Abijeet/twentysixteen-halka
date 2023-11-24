@@ -113,3 +113,8 @@ footer.site-footer .site-title,
 footer.site-footer .site-info a {
 	font-size: 16px;
 }
+
+/** Reduce blockquote font size **/
+.post blockquote {
+	font-size: 1.15rem;
+}
